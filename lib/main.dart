@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
               child: Container(),
             ),
             Expanded(
-              flex: 7,
+              flex: 2,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                 children: [
